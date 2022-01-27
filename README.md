@@ -34,7 +34,8 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_Mobile_icon.svg/1200px-Adobe_Photoshop_Mobile_icon.svg.png" alt="photoshop" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
-	</p>
+	
+</p>
 	<!-- BLOG-POST-LIST:END -->
 	
 ### Stats
@@ -53,6 +54,7 @@
 <a href="https://twitter.com/vilailus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vilailus" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lac-gomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lac-gomes" height="30" width="30" /></a>
 <a href="https://instagram.com/v1lao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="v1lao" height="30" width="30" /></a>
+	<a href="https://dev.to/vilailus" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="vilailus" height="30" width="30" /></a>
 </p>
 
 <!-- BLOG-POST-LIST:END -->
