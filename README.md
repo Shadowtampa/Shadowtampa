@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luis Gomes</h1>
-<h3 align="center">:uk: I'm Luis Gomes, a 23-year computer science, currently interested on web development. Passionate to Laravel and how to make code easier to read.</h3>
+<h1 align="center">Olá 👋, sou Luis Gomes!</h1>
+<h3 align="center">:br: Sou desenvolvedor fullstack atualmente trabalhando com Laravel e React/React Native. Sou apaixonado por código e to sempre atrás de implementar alguma feature nova (ou desfazer uma gambiarra)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowtampa" alt="shadowtampa" /> </p>
 
