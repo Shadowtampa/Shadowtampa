@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, sou Luis Gomes!</h1>
-<h3 align="center">:br: Sou desenvolvedor fullstack atualmente trabalhando com Laravel e React/React Native. Sou apaixonado por código e to sempre atrás de implementar alguma feature nova (ou desfazer uma gambiarra)</h3>
+<h3 align="center">:br: Sou desenvolvedor frontend atualmente trabalhando com Laravel e React/React Native. Meu objetivo é me tornar um especialista frontend, preferencialmente com React. Atualmente, estou estudando pela plataforma da Rocketseat. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowtampa" alt="shadowtampa" /> </p>
+
+- 🗣 Sou fluente certificado em inglês, com português nativo
 
 - 🔭 I’m currently working on [Inove Dados](https://inovedados.com.br)
 
