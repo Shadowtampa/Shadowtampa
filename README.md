@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Inove Dados](https://inovedados.com.br)
 
-- 🌱 I’m currently learning **Laravel** and **React/React Native**
+- 🌱 I’m currently specializing in **React/React Native**
 
 - 📫 How to reach me **luisgomesbcc@gmail.com**
 
