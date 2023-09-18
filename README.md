@@ -5,7 +5,7 @@
 
 - 🗣 Sou fluente certificado em inglês, com português nativo
 
-- 🔭 I’m currently working on [Inove Dados](https://inovedados.com.br)
+- 🔭 I’m currently working on [CD2 Retail Tech](https://cd2.com.br/)
 
 - 🌱 I’m currently specializing in **React/React Native**
 
